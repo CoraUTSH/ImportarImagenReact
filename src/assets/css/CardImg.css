@@ -1,0 +1,30 @@
+.card{
+  
+    background-color: black;
+    width: 300px;
+    height: 550px;
+    
+}
+.card-container-img{
+    width: 300px;
+    overflow: hidden;
+    background-size: cover;
+}
+img{
+    width: 300px;
+    height: 300px;    
+}
+.card-contiainer-descripcion, .card-container-name{
+    color: white;
+    padding: 10px;     
+}
+.card-container-name{      
+    font-size: 18px;
+}
+.card-container-name:hover{
+    font-size: 22px;
+    transition: .5s;
+}
+.card-contiainer-descripcion{
+    text-align: justify;
+}

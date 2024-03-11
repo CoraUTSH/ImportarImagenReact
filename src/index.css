@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+body{
+    background-image: url('./assets/imagenes/fondo-luminoso-puntos_1055-3132.avif');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
